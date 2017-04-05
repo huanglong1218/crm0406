@@ -6,5 +6,6 @@ public class TestGit01 {
 		System.out.println("hello,github服务器!02from yuancheng");
 		System.out.println("hello,github服务器!03from yuancheng");
 		System.out.println("from yuancheng");
+		System.out.println("from yuancheng 0002222");
 	}
 }
